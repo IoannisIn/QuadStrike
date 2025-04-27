@@ -1,6 +1,6 @@
 library ieee;
 use ieee.std_logic_1164.all;    -- Standard logic definitions (std_logic)
-use ieee.numeric_std.all;         -- Numeric operations (integer types)
+use ieee.numeric_std.all;       -- Numeric operations (integer types)
 
 -- Entity: Millisecond Timer
 -- Generates a 1 ms periodic tick based on a high-frequency clock
