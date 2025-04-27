@@ -29,9 +29,9 @@ QuadStrike is a hardware-only reaction game implemented on an FPGA. Each player:
 
 ## ▶️ Usage
 
-- **Open project in Quartus II, add all .vhd and .qsf.
-- **Compile & download to the DE1-SoC.
-- **On power-up/reset, splash animation runs (~1.2 s).
-- **Press Ready to start Player 1, hit React after blackout.
-- **Repeat for Players 2–4.
-- **Press Ready after Player 4 to announce winner.
+- Open project in Quartus II, add all .vhd and .qsf.
+- Compile & download to the DE1-SoC.
+- On power-up/reset, splash animation runs (~1.2 s).
+- Press Ready to start Player 1, hit React after blackout.
+- Repeat for Players 2–4.
+- Press Ready after Player 4 to announce winner.
