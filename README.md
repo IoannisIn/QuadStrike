@@ -2,6 +2,10 @@
 
 A VHDL-based reaction-timer game for the Terasic DE1-SoC, featuring four sequential players, LFSR delays, 1 ms timer accuracy, 7-segment displays, and LED indicators.
 
+## 📺 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/watch?v=l2KbygPLTnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2KbygPLTnc)
+
 ## 🎮 Overview
 
 QuadStrike is a hardware-only reaction game implemented on an FPGA. Each player:
