@@ -4,7 +4,7 @@ A VHDL-based reaction-timer game for the Terasic DE1-SoC, featuring four sequent
 
 ## 📺 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/watch?v=l2KbygPLTnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2KbygPLTnc)
+[![Watch the Demo](https://img.youtube.com/vi/l2KbygPLTnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2KbygPLTnc)
 
 ## 🎮 Overview
 
